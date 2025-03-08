@@ -7,12 +7,12 @@ Matricula: 882249
 
 ## Tela de inspeção com navegador
 
-<a href="https://imgur.com/N3ocANK"> <img src="https://imgur.com/N3ocANK" alt="devtools"/> </a> 
+<a href="https://drive.google.com/file/d/1qQA9ytPGlMONuD4qHgXaXVdqf0dOsta8/view?usp=sharing"> <img src="https://drive.google.com/file/d/1qQA9ytPGlMONuD4qHgXaXVdqf0dOsta8/view?usp=sharing" alt="devtools"/> </a> 
 
 
 ## Tela de projeto no Replit
 
-<a href="https://imgur.com/N3ocANK"> <img src="https://imgur.com/Q2UbVPn" alt="replit"/> </a> 
+<a href="https://drive.google.com/file/d/1fsYy60Z0yEfdRhPsc7XyBJw5OCY5KWrd/view?usp=sharing"> <img src="https://drive.google.com/file/d/1fsYy60Z0yEfdRhPsc7XyBJw5OCY5KWrd/view?usp=sharing" alt="replit"/> </a> 
 
 
 
